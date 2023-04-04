@@ -1,0 +1,11 @@
+.filmesPrincipais {
+    height: 700px;
+    background: rgb(179,59,244);
+    background: linear-gradient(90deg, rgba(179,59,244,1) 0%, rgba(137,43,202,1) 50%, rgba(94,22,166,1) 100%);;
+}
+
+img, .atropos {
+    width: 400px;
+    height: auto;
+    border-radius: 16px;
+}
